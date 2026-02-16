@@ -1,0 +1,3 @@
+[submodule "rest-crud"]
+	path = rest-crud
+	url = https://github.com/stdiodh/rest-crud
